@@ -1,4 +1,4 @@
-# My Project Portfolio
+# My Projects Portfolio
 
 Welcome to my project portfolio repository! Here, you'll find a collection of links to my various project repositories on GitHub. Feel free to explore and check out the code for each project.
 
