@@ -6,19 +6,19 @@ Welcome to my project portfolio repository! Here, you'll find a collection of li
 
 ### App Web Development
 
-<detailed>
+<details>
 soon
-</detailed>
+</details>
 
 ### Mobile App Development
 
-- [Project 1: TODO App](https://github.com/andreaintech) - A TODO App developed with React Native and Redux Toolkit.
+- [Project 1: TODO App](https://github.com/andreaintech/todo-app-redux-react-native) - A TODO App developed with React Native and Redux Toolkit.
 
 ### Data Science | AI | Machine Learning
 
-<detailed>
+<details>
 soon
-</detailed>
+</details>
 
 ## Contributions and Contact
 
