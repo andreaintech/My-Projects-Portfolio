@@ -9,7 +9,7 @@ Welcome to my project portfolio repository! Here, you'll find a collection of li
 ### App Web Development
 
 <details>
-soon
+Coming soon 😳
 </details>
 
 <br>
@@ -24,7 +24,7 @@ soon
 ### Data Science | AI | Machine Learning
 
 <details>
-soon
+Coming soon 😳
 </details>
 
 <br>
