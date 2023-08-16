@@ -17,6 +17,7 @@ soon
 ### Mobile App Development
 
 - [Project 1: TODO App](https://github.com/andreaintech/todo-app-redux-react-native) - A TODO App developed with React Native and Redux Toolkit.
+- [Project 2: Calculator App](https://github.com/andreaintech/React-Native-Calculator) - A Calculator App developed with React Native.
 
 <br>
 
