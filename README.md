@@ -35,3 +35,5 @@ Coming soon 😳
 If you have any questions or would like to collaborate on any of these projects, please feel free to [contact me](mailto:adasilvapdev@gmail.com). Contributions and feedback are always welcome!
 
 Happy coding! 💻🚀
+
+Updated and maintained with ❤️ by [@andreaintech](https://andreaintech.github.io/web/)
